@@ -9,7 +9,8 @@ export const Home = () => {
    </div>
    <div className="a">premium</div>
    <div className="b">help</div>
-    <div className="c"></div>
+    <div className="c">jishnu</div>
+    <div className="d">kayyur</div>
 
 
 
