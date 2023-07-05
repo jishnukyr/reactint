@@ -22,7 +22,7 @@ export const Home = () => {
           <div className="head">Music for everyone</div>
           <div className="sub">Millions of songs. No creadit card needed</div><br />
           <div className="button">
-            <button>GET SPOTIFY FREE</button>
+            <button id='sp'>GET SPOTIFY FREE</button>
           </div>
           </div>
 

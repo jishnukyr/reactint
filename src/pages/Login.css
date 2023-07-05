@@ -32,7 +32,7 @@ h2{
 }
 
 
-button {
+#si {
     border: none;
     padding:13px;
     font-size: 13px;
@@ -40,8 +40,7 @@ button {
     font-weight: bolder;
     color: white;
     background-color: rgb(52, 52, 155);
-   
-   
+    margin-right: 0cqmax;
 }
 .fp,.da{
     text-align: center;
