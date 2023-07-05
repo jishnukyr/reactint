@@ -15,7 +15,7 @@ const Login = () => {
                         <input type="password" placeholder="Enter password"id='pass' /><br /><br />
                         <input type="checkbox" id="show" />
                         <label htmlFor="show">Show password</label><br /><br />
-                        <button>SIGN IN</button><br /><br />
+                        <button>SIGN IN </button> <br /><br />
                         <div className="fp">Forgot <a href="none">Username/Password</a></div><br />
                         <div className="da">Dont have an account ? <a href="none">Sign up</a></div>
                     </form>
