@@ -28,21 +28,12 @@ body {
          height: 100%;
         margin-left: 5px;
         margin-top: 10px;
-        
-    
-
+  
         }
         .image img{ width: 30%;
             height: 70%;
-            
-            
-          
-
         }
-        
-
-
-          .con {
+         .con {
             padding-top: 250px;
             flex-wrap: wrap;
             text-align: center;
@@ -54,8 +45,7 @@ body {
             
           }
           .head{
-            
-            
+           
             align-items: center;
             font-size: 700%;
             color: white;
@@ -84,6 +74,11 @@ body {
           #lg{
             text-decoration: none;
         }
-          
+        @media screen and (max-width: 780px)
+        {
+          .nav,.image,.con{
+            font-size: 15px;
+          }
+        }
           
           
