@@ -2,7 +2,7 @@ body {
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
-    background-color:orange;
+   
 }
 .nav{
     width: 100%;
@@ -74,10 +74,20 @@ body {
           #lg{
             text-decoration: none;
         }
-        @media screen and (max-width: 780px)
+        @media screen and (max-width: 790px)
         {
-          .nav,.image,.con{
-            font-size: 15px;
+          .nav{font-size: 17px;}
+          .image{
+            width: 200px;
+            height: 50px;
+            }
+            .con{
+            padding-top: 80px;
+            padding-left: 13px;
+
+          }
+          .head,.sub,#sp{
+            
           }
         }
           
