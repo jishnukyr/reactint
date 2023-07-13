@@ -18,7 +18,8 @@ const Inta = () => {
   return (
     <Container>
       
-      <Box/>
+      
+      <Nav/>
       
       
       

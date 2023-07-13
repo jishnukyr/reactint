@@ -11,7 +11,8 @@ export const Home = () => {
         </div>
    <div className="a">premium</div>
    <div className="b">help</div>
-    <div className="c">Download</div>
+   <Link to={"/Inta"}  >
+    <div className="c">Download</div></Link>
     <div className="d">Sign Up</div>
     <Link to={"/Login"} id='lg' >
       
